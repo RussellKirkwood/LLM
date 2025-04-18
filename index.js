@@ -14,7 +14,8 @@
 
 // ---------------------------------------------------------------------------------------- //
 
-import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai';
+//import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai';
+import * as genai from '@mediapipe/tasks-genai';
 
 const input = document.getElementById('input');
 const output = document.getElementById('output');
