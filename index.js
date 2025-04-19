@@ -25,7 +25,7 @@ const output = document.getElementById('output');
 const submit = document.getElementById('submit');
 
 //const modelFileName = 'gemma-2b-it-gpu-int4.bin'; /* Update the file name */
-const modelFileName = 'https://drive.google.com/file/d/1mHqIKrSVYo1Kcj52tJMJ0jf0MGILlcTZ/view?usp=sharing'; /* Update the file name */ 
+const modelFileName = 'https://www.creatinggenius.com/files/gemma-2b-it-gpu-int4.bin'; /* Update the file name */ 
 //https://drive.google.com/file/d/1mHqIKrSVYo1Kcj52tJMJ0jf0MGILlcTZ/view?usp=sharing
 
 /**
