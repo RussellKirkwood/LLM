@@ -17,8 +17,8 @@
 //import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai';
 //import * as genai from '@mediapipe/tasks-genai';
 //import {FilesetResolver, LlmInference} from 'https://russellkirkwood.github.io/LLM/node_modules/@mediapipe/tasks-genai/';
-import * as genai from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai';
-import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai/';
+import * as genai from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai@latest/dist/genai.js';
+import {FilesetResolver, LlmInference} from 'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-genai@latest/dist/genai.js';
 
 const input = document.getElementById('input');
 const output = document.getElementById('output');
