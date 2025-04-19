@@ -24,7 +24,9 @@ const input = document.getElementById('input');
 const output = document.getElementById('output');
 const submit = document.getElementById('submit');
 
-const modelFileName = 'gemma-2b-it-gpu-int4.bin'; /* Update the file name */
+//const modelFileName = 'gemma-2b-it-gpu-int4.bin'; /* Update the file name */
+const modelFileName = 'https://drive.google.com/file/d/1mHqIKrSVYo1Kcj52tJMJ0jf0MGILlcTZ/view?usp=sharing'; /* Update the file name */ 
+//https://drive.google.com/file/d/1mHqIKrSVYo1Kcj52tJMJ0jf0MGILlcTZ/view?usp=sharing
 
 /**
  * Display newly generated partial results to the output text box.
